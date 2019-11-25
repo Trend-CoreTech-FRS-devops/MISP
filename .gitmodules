@@ -2,10 +2,6 @@
 	path = app/Lib/cakephp
 	url = https://github.com/cakephp/cakephp.git
 	branch = 2.x
-[submodule "PyMISP"]
-	path = PyMISP
-	url = https://github.com/MISP/PyMISP.git
-	branch = master
 [submodule "app/files/taxonomies"]
 	path = app/files/taxonomies
 	url = https://github.com/MISP/misp-taxonomies.git
